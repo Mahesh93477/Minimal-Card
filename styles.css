@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 8px;
+}
+
+.container{
+    height: 364px;
+    width: 368px;
+    background-color: #883AE1;
+    border-radius: 5%;
+    margin-left: 500px;
+    margin-top: 150px;
+    
+}
+.img{
+    height: 152px;
+    width: 336px;
+    margin-left: 16px;
+    margin-top: 16px;
+}
+.two{
+    color: blue;
+}
+.four , .five{
+    color: grey;
+}
